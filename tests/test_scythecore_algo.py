@@ -1,1 +1,1 @@
-from .scythecore_context import scythecore
+from scythecore_context import scythecore
