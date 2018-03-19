@@ -1,0 +1,10 @@
+[
+  { "__type__":"Transcript",
+    "gene":"locus0",
+    "name":"genel0t1"
+  },
+  { "__type__":"Transcript",
+    "gene":"locus1",
+    "name":"genel1t1"
+  }
+]

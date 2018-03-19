@@ -1,0 +1,12 @@
+[
+  { "__type__":"Gene",
+    "species":"zma",
+    "name":"locus0",
+    "alias":"test"
+  },
+  { "__type__":"Gene",
+    "species":"zma",
+    "name":"locus1",
+    "alias":""
+  }
+]

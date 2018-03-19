@@ -1,0 +1,20 @@
+[
+  {
+    "__type__": "Orthogroup",
+    "members": [
+      {
+        "__type__": "Gene",
+        "species": "zma",
+        "name": "locus0",
+        "alias": "test"
+      },
+      {
+        "__type__": "Gene",
+        "species": "ath",
+        "name": "locus0",
+        "alias": "testath"
+      }
+    ],
+    "name": "og1"
+  }
+]
